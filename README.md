@@ -1,4 +1,4 @@
-## [AV Hackathon Last Man Standing](https://www.hackerearth.com/machine-learning-india-hacks-2016/)
+## [Hackerearth India Hacks Machine Learning Track](https://www.hackerearth.com/machine-learning-india-hacks-2016/)
 
 
 ### Model Details:
